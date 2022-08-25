@@ -16,7 +16,7 @@ public class Mini_Project_1 {
 
 	public static void main(String[] args) throws InterruptedException, IOException {
 	    System.setProperty("webdriver.chrome.driver",
-	    		"C:\\Users\\Admin\\eclipse-workspace\\Maven_Project_Intro\\Driver\\chromedriver.exe");
+	    		"C:\\Users\\Admin\\eclipse-workspace\\Selenium_Programs\\driverr\\chromedriver.exe");
 	    
        WebDriver driver = new ChromeDriver();
        driver.get("https://adactinhotelapp.com/index.php");

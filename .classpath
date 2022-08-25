@@ -6,7 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="Driver"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/selenium/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="lib" path="D:/softwares/java installation/selenium/commons-io-2.11.0/commons-io-2.11.0.jar"/>
 	<classpathentry kind="lib" path="D:/softwares/java installation/selenium/commons-io-2.11.0/commons-io-2.11.0-javadoc.jar"/>
